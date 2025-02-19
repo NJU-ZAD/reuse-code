@@ -1,0 +1,21 @@
+{
+    "int": 6,
+    "float": 6.6,
+    "string": "array",
+    "bool": true,
+    "multi_array": {
+        "string1": "array1",
+        "string2": "array2",
+        "string3": "array3"
+    },
+    "multi_object": [
+        {
+            "name": "object1",
+            "string": "array1"
+        },
+        {
+            "name": "object2",
+            "string": "array2"
+        }
+    ]
+}

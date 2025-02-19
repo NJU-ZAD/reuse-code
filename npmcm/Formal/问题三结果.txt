@@ -1,0 +1,5 @@
+Model 1 highest val Acc : 0.9139240506329114
+Model 2 highest val Acc : 0.9493670886075949
+Model 3 highest val Acc : 0.9088607594936708
+Model 4 highest val Acc : 0.8658227848101265
+Model 5 highest val Acc : 0.9696202531645569
